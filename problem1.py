@@ -9,3 +9,4 @@ def reverse_array(arr):
 # Example
 arr = [1, 4, 3, 2, 6, 5]
 print(reverse_array(arr))
+
